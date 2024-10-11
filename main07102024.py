@@ -4,4 +4,7 @@ print(a)
 x = -10
 y = abs(x)
 print(y)
+z = x + y
+print(z)
+
 
