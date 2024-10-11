@@ -8,6 +8,8 @@ z = x + y
 print(z)
 b = z**2
 print(b)
+print(x)
+
 
 
 
